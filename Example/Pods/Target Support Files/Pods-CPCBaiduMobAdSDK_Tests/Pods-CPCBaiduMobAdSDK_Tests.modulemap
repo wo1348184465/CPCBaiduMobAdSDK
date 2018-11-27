@@ -1,0 +1,6 @@
+framework module Pods_CPCBaiduMobAdSDK_Tests {
+  umbrella header "Pods-CPCBaiduMobAdSDK_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

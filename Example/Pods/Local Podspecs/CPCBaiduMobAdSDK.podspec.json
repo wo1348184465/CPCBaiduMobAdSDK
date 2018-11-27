@@ -1,0 +1,42 @@
+{
+  "name": "CPCBaiduMobAdSDK",
+  "version": "0.0.1",
+  "summary": "把BaiduMobAdSDK弄过来了",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://www.jianshu.com/u/5f9dd7c82945",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "丁昊": "dinghao@qutoutiao.net"
+  },
+  "source": {
+    "git": "git@git.qutoutiao.net:dinghao/CPCBaiduMobAdSDK.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "resource_bundles": {
+    "CPCBaiduMobAdSDK": [
+      "CPCBaiduMobAdSDK/*.bundle"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "MessageUI",
+    "WebKit",
+    "CoreMedia",
+    "Foundation",
+    "CoreMedia",
+    "CoreMotion",
+    "SystemConfiguration",
+    "CoreLocation",
+    "CoreTelephony",
+    "adSupport",
+    "AVFoundation",
+    "SafariServices"
+  ],
+  "vendored_frameworks": "CPCBaiduMobAdSDK/*.{framework}"
+}

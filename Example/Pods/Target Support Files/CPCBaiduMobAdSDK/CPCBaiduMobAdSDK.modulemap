@@ -1,0 +1,6 @@
+framework module CPCBaiduMobAdSDK {
+  umbrella header "CPCBaiduMobAdSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

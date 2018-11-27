@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'CPCBaiduMobAdSDK_Example' do
+  pod 'CPCBaiduMobAdSDK', :path => '../'
+
+  target 'CPCBaiduMobAdSDK_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

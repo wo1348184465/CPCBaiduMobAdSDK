@@ -1,0 +1,16 @@
+PODS:
+  - CPCBaiduMobAdSDK (0.0.1)
+
+DEPENDENCIES:
+  - CPCBaiduMobAdSDK (from `../`)
+
+EXTERNAL SOURCES:
+  CPCBaiduMobAdSDK:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CPCBaiduMobAdSDK: e88b9de39fe2ebb1ec6f09f1c96f37f9a93a82c3
+
+PODFILE CHECKSUM: f853b9def935f9a9482643287d7727efbd624f8b
+
+COCOAPODS: 1.5.3
